@@ -1,0 +1,2 @@
+/Users/yeomi/Desktop/2024/delivery/gongdan_delivery/android/app/.cxx/Debug/273z2e2h/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/yeomi/Desktop/2024/delivery/gongdan_delivery/android/app/.cxx/Debug/273z2e2h/x86_64/CMakeFiles/edit_cache.dir
